@@ -25,3 +25,6 @@ Tool creada con fines educativos.
 **Creador:**
 
 Discord: jzxzn.
+
+
+# AVISO
